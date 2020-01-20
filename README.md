@@ -1,5 +1,3 @@
-# Online version : 
-
-[-->ProjectManager](https://www.kevinfritsch.com/project/)
+# [-->ProjectManager](https://www.kevinfritsch.com/project/)
 
 
