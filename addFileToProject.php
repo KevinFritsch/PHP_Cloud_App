@@ -7,7 +7,7 @@ use Kunnu\Dropbox\DropboxApp;
 use Kunnu\Dropbox\DropboxFile;
 
 
-$app = new DropboxApp("taaptqh0xc0wgr4", "ims173lqdjshc85", 'bjU-U9k3ZVAAAAAAAAAAC6eVGOrmEuvnqSkRAnjngXfZCkxIJVwUpCbwRBsSVxZm');
+$app = new DropboxApp("", "", 'DROPBOX_SECRET_API');
 $dropbox = new Dropbox($app);
 
 //upload the files in the tempFiles folder
